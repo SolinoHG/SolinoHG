@@ -1,66 +1,59 @@
-<!-- Banner de boas-vindas -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:0072ff&height=180&section=header&text=Bem-vindo(a)%20ao%20meu%20GitHub!&fontSize=30&fontColor=ffffff&animation=twinkling" alt="banner"/>
+<!-- BANNER DARK -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Nada%20muda%20se%20você%20não%20mudar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-# 👋 E aí, tudo certo?
-
-Seja bem-vindo(a) ao meu cantinho no GitHub! 😄  
-Me chamo **Arthur**, tenho **16 anos**, sou de **São Paulo/SP** e atualmente estou estudando **TI** no colégio **Nossa Senhora de Fátima Frei Galvão**. 📚💻
-
-## 🎶 Sobre mim:
-
-Fora dos códigos, meu passatempo favorito é **tocar música** — nada como uma boa melodia pra recarregar as energias! 🎸🥁🎹  
-Mas calma que não para por aí...
-
-## ♟️ Uma curiosidade que pouca gente sabe:
-
-Sou **bicampeão paulista de xadrez**! 🏆  
-Ganhei os títulos em **2017** e **2018**, e desde então carrego esse orgulho comigo! Estratégia e paciência fazem parte da minha essência. 😎🧠
+<h3 align="center">🖤 apenas um cara tranquilo</h3>
 
 ---
 
-## 💻 Tecnologias que uso e estou aprendendo:
+## 🧑‍💻 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)
+E aí 👋  
 
----
+Guri de **17 anos** que gosta de:
+- 🎮 Jogar videogame  
+- 😂 Zoar com os amigos  
+- 🏀 Jogar basquete  
+- 🎵 Tocar música  
 
-## 🚀 Em constante evolução...
-
-Estou sempre buscando aprender coisas novas e evoluir como desenvolvedor.  
-Esse repositório é só o começo da minha jornada no mundo da programação! 🌍💡
+Sempre buscando evoluir, aprendendo algo novo e transformando ideias em código.  
+Esse perfil é meu portfólio — e só tá começando. 🚀  
 
 ---
 
-## 📈 Meus status no GitHub:
+## ⚙️ Tecnologias que uso
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,git,github,python&theme=dark" />
+</p>
 
----
-
-## 📲 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuarioaqui)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthurheguedusch)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+> 🐍 Python está chegando... começando uma nova jornada.
 
 ---
 
-## ✨ Um pouco de diversão:
+## 📹 Vibe do Perfil
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://s2-techtudo.glbimg.com/3r5SWzzvIOYiczKqEP99UQa3LGc=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2024/Y/c/NHaNSLQBmMjJOS1nQxpg/design-sem-nome-2-.jpg" width="80%" />
+</p>
 
 ---
 
-### 🤝 Bora trocar ideia?
+## 🌑 Vamos conectar?
 
-Se quiser bater um papo, tirar dúvidas ou até jogar uma partidinha de xadrez 👀, me chama!  
-Valeu por passar aqui. Até mais! 👋
+<p align="center">
+  <a href="https://instagram.com/SEUUSUARIO">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/SEUID">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
+</p>
