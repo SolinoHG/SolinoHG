@@ -51,7 +51,7 @@ Mas enquanto muitos falam, eu construo.
 
 <p align="center">
   <a href="https://open.spotify.com/track/1hYtIhVxO1H9HhY7kO3O9B">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEUSPOTIFYID&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v3wdffsjcbwtm3xwl2j2oggwpu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
   </a>
 </p>
 
