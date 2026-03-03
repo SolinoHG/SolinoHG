@@ -76,11 +76,11 @@ Mas enquanto muitos falam, eu construo.
 # 🌑 Conexões Secretas
 
 <p align="center">
-  <a href="https://instagram.com/SEUUSUARIO">
+  <a href="https://www.instagram.com/arthurheguedusch/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/SEUID">
+  <a href="https://discord.com/users/1059830515978473532">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
   </a>
 </p>
