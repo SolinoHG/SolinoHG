@@ -1,6 +1,6 @@
 <!-- ===== BACKGROUND ESCURO ANIMADO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f0f0f&height=300&section=header&text=Nada%20muda%20se%20você%20não%20mudar&fontSize=40&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=modo%20vilão%20ativado%20🖤&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:1a1a1a&height=250&section=header&text=Nada%20muda%20se%20você%20não%20mudar&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=17y%20dev%20em%20evolução&descAlignY=65&descAlign=50"/>
 </p>
 
 <!-- ===== FRASE VILÃO ===== -->
