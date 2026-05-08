@@ -1,8 +1,8 @@
 <!-- ===== BACKGROUND ESCURO ANIMADO ===== -->
+<!-- ===== HEADER VERDE CLARO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&height=260&section=header&text=Arthur%20Heguedusch&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Developer%20⚡&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,35:003300,70:00cc66,100:66ffb3&height=260&section=header&text=Arthur%20Heguedusch&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Developer%20⚡&descAlignY=62"/>
 </p>
-
 
 <!-- ===== FRASE VILÃO ===== -->
 <p align="center">
@@ -54,6 +54,7 @@
 
 ---
 
+<!-- ===== FOOTER VERDE CLARO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,70:2563eb,100:38bdf8&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,40:003300,70:00cc66,100:66ffb3&height=120&section=footer"/>
 </p>
