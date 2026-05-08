@@ -1,7 +1,8 @@
 <!-- ===== BACKGROUND ESCURO ANIMADO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:1a1a1a&height=250&section=header&text=Nada%20muda%20se%20você%20não%20mudar&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=17y%20dev%20em%20evolução&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&height=260&section=header&text=Arthur%20Heguedusch&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Developer%20⚡&descAlignY=62"/>
 </p>
+
 
 <!-- ===== FRASE VILÃO ===== -->
 <p align="center">
@@ -54,5 +55,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,70:2563eb,100:38bdf8&height=120&section=footer"/>
 </p>
